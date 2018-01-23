@@ -1,0 +1,4 @@
+translator + part of speech tokenizer 	17 %, 50 minutes	// part of speech tokenizer ... english, german, chinese, spanish, french
+part of speech tokenizer		17 %, 40 minutes
+naive					63 %, .5 minutes
+translator				64 %, 10 minutes

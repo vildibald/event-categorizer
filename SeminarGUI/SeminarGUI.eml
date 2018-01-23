@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../out/test/SeminarGUI"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jfxmessagebox-1.1.0.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/.idea/libraries/jfxmessagebox-1.1.0.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/SeminarGUI/.idea/libraries/jfxmessagebox-1.1.0.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/SeminarGUI/.idea/libraries/jfxmessagebox-1.1.0.jar!/"/>
+	</lib>
+</component>
